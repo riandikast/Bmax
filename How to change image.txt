@@ -1,0 +1,3 @@
+Put any jpg image in one folder and rename it to "bmax"
+
+only work on jpg, other format like jpeg, png etc doesnt work
